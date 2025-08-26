@@ -9,8 +9,8 @@ import cartel4 from '../assets/Cartel4.png';
 const products = [
   { id: 1, name: 'Cartel de regalo grande personalizado', price: 'S/ 80.00', image: cartel1 },
   { id: 2, name: 'Cartel personalizado Paquete 4', price: 'S/ 70.00', image: cartel2 },
-  { id: 3, name: 'Cartel personalizado Paquete 1', price: 'S/ 40.00', image: cartel3 },
-  { id: 4, name: 'Cartel personalizado Paquete 2', price: 'S/ 45.00', image: cartel4 },
+  { id: 3, name: 'Cartel personalizado Paquete 2', price: 'S/ 45.00', image: cartel3 },
+  { id: 4, name: 'Cartel personalizado Paquete 1', price: 'S/ 40.00', image: cartel4 },
 ];
 
 function ProductGrid() {
